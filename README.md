@@ -21,3 +21,17 @@ To use the README Generator, follow these steps:
 1. **Clone the Repository**:
    ```bash
    git clone https://github.com/Bert0424/README-Generator.git
+
+2. **Navitgate to the Project Directory**
+   cd README-Generator
+
+3.** install Dependencies **
+   npm install
+
+4.** Run the Application**
+   node index.js
+
+5.** Answer The Prompts**
+
+6.** Revie the output**
+   after answering all the prompts the application generates a file named generated-README.md in the project directory. Open it and review.
